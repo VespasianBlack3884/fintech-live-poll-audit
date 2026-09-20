@@ -1,0 +1,1 @@
+{"scripts":{"start":"node --experimental-strip-types src/main.ts","test":"node --experimental-strip-types test/fintech_poll.test.ts"},"type":"module","dependencies":{"zod":"^3.23.8"}}
